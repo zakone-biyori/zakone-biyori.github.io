@@ -2,5 +2,5 @@
 /* Supplied illustrations keep their original proportions. */
 .wide.loaded{height:auto}.wide.loaded img{width:100%;height:auto;max-height:none}.portrait.loaded{width:300px;max-width:100%;height:auto}.portrait.loaded img{width:100%;height:auto;max-height:none}
 
-/* New official illustrations: Love, Sema, Samu, in that order. */
-.new-standing-art{display:flex;gap:5px;align-items:flex-end;margin:16px 0 22px}.new-standing-art figure{flex:1;min-width:0;text-align:center}.new-standing-art a{display:block}.new-standing-art img{display:block;width:100%;height:auto}.new-standing-art figcaption{margin-top:6px;color:#82628c;font-size:11px}
+
+.gallery-standing{display:block;width:100%;max-width:440px;height:auto;margin:16px auto 22px;border:0;background:#fff}.gallery-standing a{display:block}.gallery-standing img{display:block;width:100%;height:auto;max-height:none}
